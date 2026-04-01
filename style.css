@@ -1,7 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Momo+Signature&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Momo+Signature&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mogra&family=Story+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Story+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Delicious+Handrawn&family=Story+Script&display=swap');
 body{
     background-color: rgb(230, 146, 146);
     color: rgb(3, 0, 0);
@@ -11,13 +11,13 @@ body{
 }
 
 .paragrafo{
-    color: rgb(8, 5, 1);
-    font-size: 20px;
-    font-family: 'momo signature';
+    color: rgb(82, 32, 25);
+    font-size: 40px;
+    font-family: 'cookie';
 }
 
 .imagem{
-    width: 25%;
+    width: 10%;
 }
 
 .rodape{
@@ -27,7 +27,12 @@ body{
     padding: 13%;
 }
 .h1{
-    color: rgb(236, 117, 101);
+    color: rgb(151, 49, 121);
     font-size: 300%;
-    font-family: 'Dancing Script';
+    font-family: 'delicious handrawn';
+}
+.h2{
+    color: rgb(5, 2, 4);
+    font-size: 150%;
+    font-family: 'story script';
 }
